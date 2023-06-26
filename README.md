@@ -1,4 +1,4 @@
-### Hi there 
+Hi there 
 
 ![Alt Text](https://github.com/mariadelmark/cat_gif)
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You can find me on LinkedIn or contact me via email.
 
   ✉️ mariadelmark@gmail.com
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mdmkarpinski/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/mdmkarpinski/)
 
 
 
