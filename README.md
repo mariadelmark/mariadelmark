@@ -1,6 +1,6 @@
 Hi there 
 
-![Alt Text](https://github.com/mariadelmark/cat_gif)
+![Alt Text](kat-kitten.gif)
 
 
 
