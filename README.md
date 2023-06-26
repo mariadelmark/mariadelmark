@@ -1,16 +1,23 @@
 ### Hi there 👋
 
 <!--
-**mariadelmark/mariadelmark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🤓 My skills include: Python, R, Tableau, PowerBI,and Bigquery.
+
+- 🔭  I'm actively pursuing my Google Business Intelligence Certificate 
+      while also delving into machine learning and expanding my knowledge
+      in the field of business intelligence.
+      
+- 👯 I'm looking to collaborate on exciting projects and contribute my skills and expertise.
+
+- 🥰 I’m interested in data analytics, business analytics, and business intelligence.
+
+- 📫 How to reach me: You can find me on LinkedIn or contact me via email.
+
+  ✉️ mariadelmark@gmail.com
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mdmkarpinski/)
+
+
 -->
