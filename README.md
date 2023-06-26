@@ -1,11 +1,10 @@
-Hi there 
+                                                 Hi there 
 
 ![Alt Text](https://github.com/mariadelmark/cat_gif/blob/e88feb18cf3f57137ff5ef135d5986cbd48bf45b/kat-kitten.gif)
 
 
 
 
-Here are some ideas to get you started:
 
 - 🤓 My skills include: Python, R, Tableau, PowerBI,and Bigquery.
 
