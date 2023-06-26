@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi there 
 
-<!--
+![Alt Text](https://tenor.com/es-419/view/kat-kitten-kitty-pussy-cat-cute-gif-16707839)
+
+
+
 
 Here are some ideas to get you started:
 
@@ -20,4 +23,4 @@ Here are some ideas to get you started:
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mdmkarpinski/)
 
 
--->
+
